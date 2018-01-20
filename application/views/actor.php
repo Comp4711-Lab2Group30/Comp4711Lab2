@@ -5,5 +5,8 @@
                 <img src="/pix/{who}.jpg" title="{who} plays {role}"/>
             </a>
         </div>
+		<div class="span8">
+			{who} plays {role} and said "{what}"
+		</div>
     </div>
 </div>

@@ -26,7 +26,7 @@ class Quotes extends CI_Model
 		'6'	 => array('who'	 => 'George Wyner', 'role'	 => 'Colonel Sandurz',
 			'what'	 => 'No, sir! I didn\'t see you playing with your dolls again!'),
         '7'	 => array('who'	 => 'Emma Watson', 'role'	 => 'Venom',
-            'what'	 => 'Don\'t do it Eddie !')
+            'what'	 => 'Don\'t do it Eddie!')
 	);
 
 	// Constructor
