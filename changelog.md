@@ -8,3 +8,6 @@ Setup the Changelog
 
 Change 2
 Scolded First Mate
+
+Change 3
+Added role notes on hover for pictures
